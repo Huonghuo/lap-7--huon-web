@@ -20,8 +20,9 @@
         margin-top: 20px;
         font-size: 100%;
         padding: 25px;
-		border-radius: 10px;
-		background-image: url("anhnen3.jpg");
+	border-radius: 10px;
+	background-image: url("anhnen3.jpg");
+	align-items: center;
     }
 h1{
     font-size: 50px;
